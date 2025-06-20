@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Eng (Double Degree) in Computer Science, University of Technology of Belfort-Montbéliard, 2019 – Present **(GPA: 4.1/4.3)**
+* M.Eng (Double Degree) in Computer Science, University of Technology of Belfort-Montbéliard, 2019 – Present 
 * M.S. in Anomaly Detection using Deep Learning, École de Technologie Supérieure, 2023 – Present **(GPA: 4.2/4.3)**
 
 Work Experience

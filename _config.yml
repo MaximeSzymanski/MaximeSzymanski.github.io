@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maxime Szymanski Portfolio"
+title                    : "Maxime Szymanski's Portfolio"
 title_separator          : "-"
 name                     : &name "Maxime Szymanski"
 description              : &description "personal description"
